@@ -1,0 +1,13 @@
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\bin\Debug\netcoreapp3.1\reverse.exe
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\bin\Debug\netcoreapp3.1\reverse.deps.json
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\bin\Debug\netcoreapp3.1\reverse.runtimeconfig.json
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\bin\Debug\netcoreapp3.1\reverse.runtimeconfig.dev.json
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\bin\Debug\netcoreapp3.1\reverse.dll
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\bin\Debug\netcoreapp3.1\reverse.pdb
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\obj\Debug\netcoreapp3.1\reverse.csprojAssemblyReference.cache
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\obj\Debug\netcoreapp3.1\reverse.AssemblyInfoInputs.cache
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\obj\Debug\netcoreapp3.1\reverse.AssemblyInfo.cs
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\obj\Debug\netcoreapp3.1\reverse.csproj.CoreCompileInputs.cache
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\obj\Debug\netcoreapp3.1\reverse.dll
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\obj\Debug\netcoreapp3.1\reverse.pdb
+D:\STUDY\malware_mechanism\TH\LAB_1\reverse\reverse\obj\Debug\netcoreapp3.1\reverse.genruntimeconfig.cache
